@@ -1,0 +1,95 @@
+{
+  "rows": [
+    {
+      "id": 1,
+      "fecha": "2026-04-06",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 031",
+      "monto": 3000
+    },
+    {
+      "id": 2,
+      "fecha": "2026-04-06",
+      "cat": "DIESEL",
+      "desc": "PRENSA GRANDE",
+      "monto": 1500
+    },
+    {
+      "id": 3,
+      "fecha": "2026-04-06",
+      "cat": "GASTOS AF",
+      "desc": "DEP MISAEL",
+      "monto": 10000
+    },
+    {
+      "id": 4,
+      "fecha": "2026-04-06",
+      "cat": "REFACCIONES GRUA 031",
+      "desc": "TRAPO INDUSTRIAL Y TORNILLO 031",
+      "monto": 185
+    },
+    {
+      "id": 5,
+      "fecha": "2026-04-06",
+      "cat": "SERVICIOS",
+      "desc": "MEGACABLE + COMISION",
+      "monto": 770
+    },
+    {
+      "id": 6,
+      "fecha": "2026-04-06",
+      "cat": "GASOLINA CAMIONETA",
+      "desc": "GASOLINA CAMIONETA",
+      "monto": 200
+    },
+    {
+      "id": 7,
+      "fecha": "2026-04-06",
+      "cat": "TALACHAS",
+      "desc": "TALACHA CAMIONETA",
+      "monto": 340
+    },
+    {
+      "id": 8,
+      "fecha": "2026-04-06",
+      "cat": "ERIKA",
+      "desc": "LIMPIEZA ERIKA + COMISION",
+      "monto": 1512
+    },
+    {
+      "id": 9,
+      "fecha": "2026-04-06",
+      "cat": "HRS EXTRAS",
+      "desc": "JOSE LUIS BASCULA",
+      "monto": 500
+    },
+    {
+      "id": 10,
+      "fecha": "2026-04-06",
+      "cat": "REFACCIONES GRUA 032",
+      "desc": "DISCOS CORTE CHIVO 032",
+      "monto": 124
+    }
+  ],
+  "nextId": 11,
+  "categories": [
+    "DIESEL",
+    "COMBUSTIBLE",
+    "FLETE",
+    "NOMINA",
+    "MANTENIMIENTO",
+    "INSUMOS",
+    "ADMINISTRATIVO",
+    "SERVICIOS",
+    "RENTA",
+    "BASCULA",
+    "GASTOS AF",
+    "REFACCIONES GRUA 031",
+    "GASOLINA CAMIONETA",
+    "TALACHAS",
+    "ERIKA",
+    "HRS EXTRAS",
+    "REFACCIONES GRUA 032"
+  ],
+  "fechaRespaldo": "2026-04-20T18:58:54.884Z"
+}
