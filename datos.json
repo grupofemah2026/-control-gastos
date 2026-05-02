@@ -468,9 +468,51 @@
       "cat": "OTROS GASTOS",
       "desc": "DISCO DE CORTE",
       "monto": 75
+    },
+    {
+      "id": 78,
+      "fecha": "2026-04-15",
+      "cat": "OTROS GASTOS",
+      "desc": "Cortador Con Boquilla",
+      "monto": 3300
+    },
+    {
+      "id": 79,
+      "fecha": "2026-04-15",
+      "cat": "DIESEL",
+      "desc": "GRUA 031 Y PRENSA GRANDE",
+      "monto": 3500
+    },
+    {
+      "id": 80,
+      "fecha": "2026-04-15",
+      "cat": "OTROS GASTOS",
+      "desc": "GARRAFON DE AGUA",
+      "monto": 61
+    },
+    {
+      "id": 81,
+      "fecha": "2026-04-15",
+      "cat": "GASTOS MEDICOS",
+      "desc": "MEDICAMENTO EDUARDO SILVA",
+      "monto": 338
+    },
+    {
+      "id": 82,
+      "fecha": "2026-04-15",
+      "cat": "GASTOS AF",
+      "desc": "GASTOS AF",
+      "monto": 1000
+    },
+    {
+      "id": 83,
+      "fecha": "2026-04-15",
+      "cat": "CANACINTRA",
+      "desc": "EDUARDO CANACINTRA",
+      "monto": 10000
     }
   ],
-  "nextId": 78,
+  "nextId": 84,
   "categories": [
     "DIESEL",
     "COMBUSTIBLE",
@@ -503,7 +545,8 @@
     "PAGO CHIVO",
     "OXIGENO",
     "MECANICO",
-    "GASTOS RECOLECCION"
+    "GASTOS RECOLECCION",
+    "CANACINTRA"
   ],
-  "fechaRespaldo": "2026-05-02T18:41:40.753Z"
+  "fechaRespaldo": "2026-05-02T18:50:55.349Z"
 }
