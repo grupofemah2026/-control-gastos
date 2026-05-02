@@ -69,9 +69,408 @@
       "cat": "REFACCIONES GRUA 032",
       "desc": "DISCOS CORTE CHIVO 032",
       "monto": 124
+    },
+    {
+      "id": 11,
+      "fecha": "2026-04-07",
+      "cat": "REFACCIONES GRUA 031",
+      "desc": "SWITCH GRUA 031",
+      "monto": 300
+    },
+    {
+      "id": 12,
+      "fecha": "2026-04-07",
+      "cat": "GASTOS MEDICOS",
+      "desc": "GASTOS MEDICOS JOSE LUIS CORTADOR",
+      "monto": 225
+    },
+    {
+      "id": 13,
+      "fecha": "2026-04-07",
+      "cat": "PAGOS DANIEL AF",
+      "desc": "DANIEL AF",
+      "monto": 20000
+    },
+    {
+      "id": 14,
+      "fecha": "2026-04-07",
+      "cat": "REFACCIONES GRUA 032",
+      "desc": "TORNILLOS",
+      "monto": 300
+    },
+    {
+      "id": 15,
+      "fecha": "2026-04-07",
+      "cat": "REFACCIONES GRUA 031",
+      "desc": "BROCAS Y SILICON",
+      "monto": 321
+    },
+    {
+      "id": 16,
+      "fecha": "2026-04-07",
+      "cat": "REFACCIONES GRUA 032",
+      "desc": "TORNILLOS",
+      "monto": 447
+    },
+    {
+      "id": 17,
+      "fecha": "2026-04-07",
+      "cat": "GASOLINA CAMIONETA",
+      "desc": "GASOLINA CAMIONETA CHIVO",
+      "monto": 200
+    },
+    {
+      "id": 18,
+      "fecha": "2026-04-07",
+      "cat": "OTROS GASTOS",
+      "desc": "BOLETO AUTOBUS CHIVO",
+      "monto": 1191
+    },
+    {
+      "id": 19,
+      "fecha": "2026-04-07",
+      "cat": "PAGOS CANACINTRA",
+      "desc": "EDUARDO",
+      "monto": 18000
+    },
+    {
+      "id": 20,
+      "fecha": "2026-04-07",
+      "cat": "DIESEL",
+      "desc": "GRUA 031",
+      "monto": 3500
+    },
+    {
+      "id": 21,
+      "fecha": "2026-04-07",
+      "cat": "BASURA",
+      "desc": "BASURA",
+      "monto": 800
+    },
+    {
+      "id": 22,
+      "fecha": "2026-04-08",
+      "cat": "DIESEL",
+      "desc": "DIESEL PRENSA BOTE",
+      "monto": 1000
+    },
+    {
+      "id": 23,
+      "fecha": "2026-04-08",
+      "cat": "DIESEL",
+      "desc": "GRUA 031 RECOLECCION",
+      "monto": 3500
+    },
+    {
+      "id": 24,
+      "fecha": "2026-04-08",
+      "cat": "OTROS GASTOS",
+      "desc": "CABLE BASCULA STEREN",
+      "monto": 100
+    },
+    {
+      "id": 25,
+      "fecha": "2026-04-08",
+      "cat": "REFACCIONES GRUA 032",
+      "desc": "TORNILLOS",
+      "monto": 98
+    },
+    {
+      "id": 26,
+      "fecha": "2026-04-08",
+      "cat": "GASOLINA CAMIONETA",
+      "desc": "GASOLINA CHIVO",
+      "monto": 200
+    },
+    {
+      "id": 27,
+      "fecha": "2026-04-08",
+      "cat": "REFACCIONES CHIVO",
+      "desc": "TINNER DE CHIVO SIN TICKET",
+      "monto": 120
+    },
+    {
+      "id": 28,
+      "fecha": "2026-04-08",
+      "cat": "REFACCIONES CHIVO",
+      "desc": "PULIDORA CHIVO",
+      "monto": 755
+    },
+    {
+      "id": 29,
+      "fecha": "2026-04-08",
+      "cat": "REFACCIONES CHIVO",
+      "desc": "DISCOS CORTES CHIVO",
+      "monto": 458
+    },
+    {
+      "id": 30,
+      "fecha": "2026-04-08",
+      "cat": "DIESEL",
+      "desc": "PRENSA GRANDE",
+      "monto": 1500
+    },
+    {
+      "id": 31,
+      "fecha": "2026-04-09",
+      "cat": "DIESEL",
+      "desc": "GRUA 031",
+      "monto": 2500
+    },
+    {
+      "id": 33,
+      "fecha": "2026-04-09",
+      "cat": "REFACCIONES GRUA 032",
+      "desc": "GATO GRUA 032",
+      "monto": 2500
+    },
+    {
+      "id": 34,
+      "fecha": "2026-04-09",
+      "cat": "CASETAS,BASCULAS, MARTIN V.",
+      "desc": "CASETAS Y BASCULAS MARTIN",
+      "monto": 1148
+    },
+    {
+      "id": 35,
+      "fecha": "2026-04-09",
+      "cat": "REFACCIONES GRUA 031",
+      "desc": "AJUSTE TUERCAS LLANTAS",
+      "monto": 50
+    },
+    {
+      "id": 36,
+      "fecha": "2026-04-09",
+      "cat": "REFACCIONES GRUA 031",
+      "desc": "ACEITE HIDRAULICO CHIVO",
+      "monto": 2398
+    },
+    {
+      "id": 37,
+      "fecha": "2026-04-09",
+      "cat": "FLETE MARTIN V.",
+      "desc": "FLETE",
+      "monto": 3600
+    },
+    {
+      "id": 38,
+      "fecha": "2026-04-09",
+      "cat": "CASETAS,BASCULAS, MARTIN V.",
+      "desc": "CASETAS GUAD",
+      "monto": 280
+    },
+    {
+      "id": 39,
+      "fecha": "2026-04-09",
+      "cat": "PESO Y DIMENSIONES MARTIN V.",
+      "desc": "PESO Y DIMENSIONES MARTIN",
+      "monto": 1000
+    },
+    {
+      "id": 40,
+      "fecha": "2026-04-09",
+      "cat": "CASETAS,BASCULAS, MARTIN V.",
+      "desc": "BASCULA",
+      "monto": 80
+    },
+    {
+      "id": 41,
+      "fecha": "2026-04-09",
+      "cat": "GASTOS DE RECOLECCION MARTIN V",
+      "desc": "RECOLECCION",
+      "monto": 500
+    },
+    {
+      "id": 42,
+      "fecha": "2026-04-09",
+      "cat": "REFACCIONES CHIVO",
+      "desc": "COMPRA DE BROCA Y LIMA ROT",
+      "monto": 299
+    },
+    {
+      "id": 43,
+      "fecha": "2026-04-09",
+      "cat": "PRESTAMOS",
+      "desc": "PRESTAMO LALO",
+      "monto": 1000
+    },
+    {
+      "id": 44,
+      "fecha": "2026-04-09",
+      "cat": "PAGO CHIVO",
+      "desc": "PAGO CHIVO",
+      "monto": 2000
+    },
+    {
+      "id": 45,
+      "fecha": "2026-04-09",
+      "cat": "DIESEL",
+      "desc": "GRUA 031 RECOLECCION",
+      "monto": 3000
+    },
+    {
+      "id": 55,
+      "fecha": "2026-04-10",
+      "cat": "OTROS GASTOS",
+      "desc": "ESCOBAS PATIO",
+      "monto": 80
+    },
+    {
+      "id": 56,
+      "fecha": "2026-04-10",
+      "cat": "ERIKA",
+      "desc": "LIMPIEZA ERIKA",
+      "monto": 500
+    },
+    {
+      "id": 57,
+      "fecha": "2026-04-10",
+      "cat": "OXIGENO",
+      "desc": "OXIGENO *5",
+      "monto": 2100
+    },
+    {
+      "id": 58,
+      "fecha": "2026-04-10",
+      "cat": "REFACCIONES GRUA 032",
+      "desc": "GIRO GRUA 032 CHIVO",
+      "monto": 5800
+    },
+    {
+      "id": 59,
+      "fecha": "2026-04-10",
+      "cat": "CASETAS,BASCULAS, MARTIN V.",
+      "desc": "BASCULA RECOLECCION",
+      "monto": 80
+    },
+    {
+      "id": 60,
+      "fecha": "2026-04-10",
+      "cat": "OTROS GASTOS",
+      "desc": "PAGO CELULAR ALEX (MISAEL)",
+      "monto": 500
+    },
+    {
+      "id": 61,
+      "fecha": "2026-04-10",
+      "cat": "REFACCIONES GRUA 032",
+      "desc": "MANGUERA GRUA 032",
+      "monto": 337
+    },
+    {
+      "id": 62,
+      "fecha": "2026-04-10",
+      "cat": "MECANICO",
+      "desc": "JORGE MECANICO",
+      "monto": 8000
+    },
+    {
+      "id": 63,
+      "fecha": "2026-04-11",
+      "cat": "OTROS GASTOS",
+      "desc": "MEDICAMENTOS EDUARDO SILVA",
+      "monto": 208
+    },
+    {
+      "id": 64,
+      "fecha": "2026-04-11",
+      "cat": "OTROS GASTOS",
+      "desc": "ATENCION MEDICA EDUARDO SILVA",
+      "monto": 395
+    },
+    {
+      "id": 65,
+      "fecha": "2026-04-11",
+      "cat": "DIESEL",
+      "desc": "GRUA 031 Y PRENSA GRANDE",
+      "monto": 3500
+    },
+    {
+      "id": 66,
+      "fecha": "2026-04-11",
+      "cat": "GASTOS RECOLECCION",
+      "desc": "RECOLECCION MARTIN",
+      "monto": 500
+    },
+    {
+      "id": 67,
+      "fecha": "2026-04-11",
+      "cat": "PAGO CHIVO",
+      "desc": "PAGO CHIVO",
+      "monto": 1000
+    },
+    {
+      "id": 68,
+      "fecha": "2026-04-11",
+      "cat": "GASOLINA CAMIONETA",
+      "desc": "GASOLINA CAMIONETA AF",
+      "monto": 500
+    },
+    {
+      "id": 69,
+      "fecha": "2026-04-11",
+      "cat": "OTROS GASTOS",
+      "desc": "TAXI EDUARDO SILVA",
+      "monto": 50
+    },
+    {
+      "id": 70,
+      "fecha": "2026-04-11",
+      "cat": "NOMINA",
+      "desc": "NOMINA DEL 06 AL 11 DE ABRIL",
+      "monto": 33950
+    },
+    {
+      "id": 71,
+      "fecha": "2026-04-13",
+      "cat": "DIESEL",
+      "desc": "GRUA 031 Y PRENSA PACAS",
+      "monto": 3500
+    },
+    {
+      "id": 72,
+      "fecha": "2026-04-13",
+      "cat": "OTROS GASTOS",
+      "desc": "VERIFICACION ROLL OFF",
+      "monto": 1600
+    },
+    {
+      "id": 73,
+      "fecha": "2026-04-13",
+      "cat": "PAGO CHIVO",
+      "desc": "PAGO CHIVO + COMISION",
+      "monto": 2015
+    },
+    {
+      "id": 74,
+      "fecha": "2026-04-13",
+      "cat": "INSUMOS",
+      "desc": "ARTICULOS DE LIMPIEZA",
+      "monto": 178
+    },
+    {
+      "id": 75,
+      "fecha": "2026-04-13",
+      "cat": "OTROS GASTOS",
+      "desc": "CONSULTA AMCCI EDUARDO SILVA",
+      "monto": 1000
+    },
+    {
+      "id": 76,
+      "fecha": "2026-04-14",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 031 Y PRENSA PACAS",
+      "monto": 4500
+    },
+    {
+      "id": 77,
+      "fecha": "2026-04-14",
+      "cat": "OTROS GASTOS",
+      "desc": "DISCO DE CORTE",
+      "monto": 75
     }
   ],
-  "nextId": 11,
+  "nextId": 78,
   "categories": [
     "DIESEL",
     "COMBUSTIBLE",
@@ -89,7 +488,22 @@
     "TALACHAS",
     "ERIKA",
     "HRS EXTRAS",
-    "REFACCIONES GRUA 032"
+    "REFACCIONES GRUA 032",
+    "GASTOS MEDICOS",
+    "PAGOS DANIEL AF",
+    "OTROS GASTOS",
+    "PAGOS CANACINTRA",
+    "BASURA",
+    "REFACCIONES CHIVO",
+    "CASETAS,BASCULAS, MARTIN V.",
+    "FLETE MARTIN V.",
+    "PESO Y DIMENSIONES MARTIN V.",
+    "GASTOS DE RECOLECCION MARTIN V",
+    "PRESTAMOS",
+    "PAGO CHIVO",
+    "OXIGENO",
+    "MECANICO",
+    "GASTOS RECOLECCION"
   ],
-  "fechaRespaldo": "2026-04-20T18:58:54.884Z"
+  "fechaRespaldo": "2026-05-02T18:41:40.753Z"
 }
