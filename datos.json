@@ -1602,9 +1602,422 @@
       "cat": "DIESEL",
       "desc": "DIESEL GRUA 031",
       "monto": 2000
+    },
+    {
+      "id": 243,
+      "fecha": "2026-05-02",
+      "cat": "GASTOS AF",
+      "desc": "GASTOS AF",
+      "monto": 766
+    },
+    {
+      "id": 244,
+      "fecha": "2026-05-02",
+      "cat": "NOMINA",
+      "desc": "NOMINA 27 DE ABRIL  AL 02  MAYO",
+      "monto": 21850
+    },
+    {
+      "id": 245,
+      "fecha": "2026-05-02",
+      "cat": "REFACCIONES TRACTO ELEAZAR",
+      "desc": "REFACCIONES ELEAZAR",
+      "monto": 823
+    },
+    {
+      "id": 246,
+      "fecha": "2026-05-02",
+      "cat": "GASOLINA CAMIONETA",
+      "desc": "GASOLINA",
+      "monto": 200
+    },
+    {
+      "id": 247,
+      "fecha": "2026-05-02",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 031",
+      "monto": 2000
+    },
+    {
+      "id": 248,
+      "fecha": "2026-05-02",
+      "cat": "DIESEL",
+      "desc": "PRENSA PACAS",
+      "monto": 1000
+    },
+    {
+      "id": 249,
+      "fecha": "2026-05-02",
+      "cat": "REFACCIONES PRENSA PACAS",
+      "desc": "SELLOS PRENSA PACAS",
+      "monto": 5000
+    },
+    {
+      "id": 250,
+      "fecha": "2026-05-02",
+      "cat": "OTROS GASTOS",
+      "desc": "GASTOS ELEAZAR",
+      "monto": 2000
+    },
+    {
+      "id": 251,
+      "fecha": "2026-05-04",
+      "cat": "HRS EXTRAS",
+      "desc": "EXTRAS LALO",
+      "monto": 800
+    },
+    {
+      "id": 252,
+      "fecha": "2026-05-04",
+      "cat": "HRS EXTRAS",
+      "desc": "EXTRAS PABLO",
+      "monto": 600
+    },
+    {
+      "id": 253,
+      "fecha": "2026-05-04",
+      "cat": "HRS EXTRAS",
+      "desc": "DON LUIS",
+      "monto": 1000
+    },
+    {
+      "id": 254,
+      "fecha": "2026-05-04",
+      "cat": "HRS EXTRAS",
+      "desc": "EXTRAS JOSE LUIS",
+      "monto": 200
+    },
+    {
+      "id": 255,
+      "fecha": "2026-05-04",
+      "cat": "HRS EXTRAS",
+      "desc": "EXTRAS DON LUIS",
+      "monto": 1500
+    },
+    {
+      "id": 256,
+      "fecha": "2026-05-04",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 32",
+      "monto": 3000
+    },
+    {
+      "id": 257,
+      "fecha": "2026-05-04",
+      "cat": "DIESEL",
+      "desc": "PRENSA PACAS",
+      "monto": 1000
+    },
+    {
+      "id": 258,
+      "fecha": "2026-05-04",
+      "cat": "DIESEL",
+      "desc": "PRENSA BOTE",
+      "monto": 500
+    },
+    {
+      "id": 259,
+      "fecha": "2026-05-04",
+      "cat": "GASTOS AF",
+      "desc": "GASTOS AF CELULAR",
+      "monto": 1000
+    },
+    {
+      "id": 260,
+      "fecha": "2026-05-04",
+      "cat": "REFACCIONES VARIAS",
+      "desc": "ARRANCADOR",
+      "monto": 135
+    },
+    {
+      "id": 261,
+      "fecha": "2026-05-04",
+      "cat": "REFACCIONES GRUA 032",
+      "desc": "PAGO SOLDADURA TELLEZ SOLDADURA",
+      "monto": 4800
+    },
+    {
+      "id": 262,
+      "fecha": "2026-05-04",
+      "cat": "CASETAS, BASCULAS ELEAZAR",
+      "desc": "CASETAS,BASCULAS,TALACHAS ELEAZAR",
+      "monto": 1527
+    },
+    {
+      "id": 263,
+      "fecha": "2026-05-04",
+      "cat": "OTROS GASTOS",
+      "desc": "PAGO POR REPARACION PRENSA PACAS CHIVO",
+      "monto": 3000
+    },
+    {
+      "id": 264,
+      "fecha": "2026-05-04",
+      "cat": "OXIGENO",
+      "desc": "OXIGENO",
+      "monto": 1610
+    },
+    {
+      "id": 265,
+      "fecha": "2026-05-04",
+      "cat": "DIESEL",
+      "desc": "DIESLE GRUA 031",
+      "monto": 3500
+    },
+    {
+      "id": 266,
+      "fecha": "2026-05-04",
+      "cat": "FLETE ELEZAR",
+      "desc": "FLETE ELEZAR",
+      "monto": 3600
+    },
+    {
+      "id": 267,
+      "fecha": "2026-05-05",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 032",
+      "monto": 2000
+    },
+    {
+      "id": 268,
+      "fecha": "2026-05-05",
+      "cat": "DIESEL",
+      "desc": "PRENSA PACAS",
+      "monto": 1000
+    },
+    {
+      "id": 269,
+      "fecha": "2026-05-05",
+      "cat": "OTROS GASTOS",
+      "desc": "ARTICULOS DE LIMPIEZA CASA AF",
+      "monto": 472
+    },
+    {
+      "id": 270,
+      "fecha": "2026-05-05",
+      "cat": "GASOLINA MISAEL",
+      "desc": "GASOLINA MISAEL",
+      "monto": 500
+    },
+    {
+      "id": 271,
+      "fecha": "2026-05-05",
+      "cat": "REFACCIONES VARIAS",
+      "desc": "TORNO GIROS CHIVO",
+      "monto": 16150
+    },
+    {
+      "id": 272,
+      "fecha": "2026-05-05",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 031",
+      "monto": 2000
+    },
+    {
+      "id": 273,
+      "fecha": "2026-05-05",
+      "cat": "FLETE MARTIN V.",
+      "desc": "FLETE",
+      "monto": 3600
+    },
+    {
+      "id": 274,
+      "fecha": "2026-05-05",
+      "cat": "CASETAS,BASCULAS, MARTIN V.",
+      "desc": "CASETAS, BASCULAS MARTIN",
+      "monto": 677
+    },
+    {
+      "id": 275,
+      "fecha": "2026-05-05",
+      "cat": "OTROS GASTOS",
+      "desc": "LLANTAS MARTIN",
+      "monto": 3130
+    },
+    {
+      "id": 276,
+      "fecha": "2026-05-05",
+      "cat": "CLASIFICADOR MARTIN V.",
+      "desc": "CLASIFICADOR",
+      "monto": 500
+    },
+    {
+      "id": 277,
+      "fecha": "2026-05-05",
+      "cat": "TALACHAS MARTIN V.",
+      "desc": "TALACHAS MARTIN V.",
+      "monto": 780
+    },
+    {
+      "id": 280,
+      "fecha": "2026-05-05",
+      "cat": "REFACCIONES PRENSA GRANDE",
+      "desc": "REFACCIONES PARA LA REPARACION DE PRENSA PACAS (DANI)",
+      "monto": 11500
+    },
+    {
+      "id": 281,
+      "fecha": "2026-05-05",
+      "cat": "GASOLINA CHIVO",
+      "desc": "GASOLINA CHIVO",
+      "monto": 200
+    },
+    {
+      "id": 282,
+      "fecha": "2026-05-06",
+      "cat": "MECANICO",
+      "desc": "ARREGLO PRENSA PACAS (MIGUEL)",
+      "monto": 3500
+    },
+    {
+      "id": 283,
+      "fecha": "2026-05-06",
+      "cat": "CASETAS, BASCULAS ELEAZAR",
+      "desc": "AJUSTE BASCULA ELEAZAR",
+      "monto": 80
+    },
+    {
+      "id": 284,
+      "fecha": "2026-05-06",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 031",
+      "monto": 2000
+    },
+    {
+      "id": 285,
+      "fecha": "2026-05-06",
+      "cat": "MECANICO",
+      "desc": "PAGO TOTAL MIGUEL ARREGLO PRENSA PACAS",
+      "monto": 3500
+    },
+    {
+      "id": 286,
+      "fecha": "2026-05-06",
+      "cat": "REFACCIONES PRENSA GRANDE",
+      "desc": "SERVICIO ACEITE Y FILTRO PRENSA PACAS",
+      "monto": 5500
+    },
+    {
+      "id": 287,
+      "fecha": "2026-05-06",
+      "cat": "PAPELERIA",
+      "desc": "PAPELERIA OFICINA",
+      "monto": 793
+    },
+    {
+      "id": 288,
+      "fecha": "2026-05-06",
+      "cat": "REFACCIONES GRUA 032",
+      "desc": "MANGUERA GRUA 032 (DANI)",
+      "monto": 500
+    },
+    {
+      "id": 289,
+      "fecha": "2026-05-06",
+      "cat": "REFACCIONES ROLL OFF",
+      "desc": "TERMINALES FOLL OFF (DANI)",
+      "monto": 200
+    },
+    {
+      "id": 290,
+      "fecha": "2026-05-06",
+      "cat": "REFACCIONES PRENSA GRANDE",
+      "desc": "PISTON PRENSA PACAS",
+      "monto": 10000
+    },
+    {
+      "id": 291,
+      "fecha": "2026-05-06",
+      "cat": "GASOLINA CAMIONETA",
+      "desc": "GASOLINA MOTO LALO SILVA",
+      "monto": 100
+    },
+    {
+      "id": 292,
+      "fecha": "2026-05-06",
+      "cat": "REFACCIONES TRACTO ELEAZAR",
+      "desc": "CONEXIONES  ELEAZAR (05/05/26) DEP OXXO",
+      "monto": 815
+    },
+    {
+      "id": 293,
+      "fecha": "2026-05-06",
+      "cat": "PRESTAMOS",
+      "desc": "PRESTAMO DON LUIS",
+      "monto": 5000
+    },
+    {
+      "id": 294,
+      "fecha": "2026-05-06",
+      "cat": "GASOLINA CAMIONETA",
+      "desc": "GASOLINA CAMIONETA CHIVO",
+      "monto": 300
+    },
+    {
+      "id": 295,
+      "fecha": "2026-05-07",
+      "cat": "OXIGENO",
+      "desc": "OXIGENO MAYBEY",
+      "monto": 1680
+    },
+    {
+      "id": 296,
+      "fecha": "2026-05-07",
+      "cat": "GASTOS AF",
+      "desc": "GASTOS AF",
+      "monto": 500
+    },
+    {
+      "id": 297,
+      "fecha": "2026-05-07",
+      "cat": "GASTOS AF",
+      "desc": "GASTPOS AF (BOLETOS)",
+      "monto": 42600
+    },
+    {
+      "id": 298,
+      "fecha": "2026-05-07",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 031",
+      "monto": 3000
+    },
+    {
+      "id": 299,
+      "fecha": "2026-05-07",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 032",
+      "monto": 1500
+    },
+    {
+      "id": 300,
+      "fecha": "2026-05-07",
+      "cat": "REFACCIONES PRENSA GRANDE",
+      "desc": "VASTAGO NUEVO PRENSA PACAS",
+      "monto": 1200
+    },
+    {
+      "id": 301,
+      "fecha": "2026-05-07",
+      "cat": "REFACCIONES PRENSA GRANDE",
+      "desc": "SELLOS PRENSA PACAS",
+      "monto": 2500
+    },
+    {
+      "id": 302,
+      "fecha": "2026-05-07",
+      "cat": "REFACCIONES MOTO",
+      "desc": "REFACCIONES MOTO",
+      "monto": 500
+    },
+    {
+      "id": 303,
+      "fecha": "2026-05-07",
+      "cat": "BOTIQUIN",
+      "desc": "ALCOHOL ETILICO",
+      "monto": 54
     }
   ],
-  "nextId": 243,
+  "nextId": 304,
   "categories": [
     "DIESEL",
     "COMBUSTIBLE",
@@ -1654,7 +2067,12 @@
     "REFACCIONES ROLL OFF",
     "TAXIS",
     "REFACCIONES PRENSA GRANDE",
-    "CLASIFICADOR MARTIN V."
+    "CLASIFICADOR MARTIN V.",
+    "REFACCIONES TRACTO ELEAZAR",
+    "REFACCIONES PRENSA PACAS",
+    "TALACHAS MARTIN V.",
+    "REFACCIONES MOTO",
+    "BOTIQUIN"
   ],
-  "fechaRespaldo": "2026-05-12T18:11:51.958Z"
+  "fechaRespaldo": "2026-05-19T22:35:01.481Z"
 }
