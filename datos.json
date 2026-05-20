@@ -2547,9 +2547,79 @@
       "cat": "HRS EXTRAS",
       "desc": "EXTRAS PABLO",
       "monto": 250
+    },
+    {
+      "id": 381,
+      "fecha": "2026-05-19",
+      "cat": "GASOLINA CHIVO",
+      "desc": "GASOLINA CHIVO",
+      "monto": 100
+    },
+    {
+      "id": 382,
+      "fecha": "2026-05-19",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 032",
+      "monto": 1500
+    },
+    {
+      "id": 383,
+      "fecha": "2026-05-19",
+      "cat": "DIESEL",
+      "desc": "DIESEL PRENSA PACAS",
+      "monto": 1500
+    },
+    {
+      "id": 384,
+      "fecha": "2026-05-19",
+      "cat": "GASOLINA MISAEL",
+      "desc": "GASOLINA MISAEL",
+      "monto": 500
+    },
+    {
+      "id": 385,
+      "fecha": "2026-05-19",
+      "cat": "OTROS GASTOS",
+      "desc": "ABRAZADERAS",
+      "monto": 51
+    },
+    {
+      "id": 386,
+      "fecha": "2026-05-19",
+      "cat": "PRESTAMOS",
+      "desc": "PRESTAMO DON LUIS",
+      "monto": 1000
+    },
+    {
+      "id": 387,
+      "fecha": "2026-05-19",
+      "cat": "FLETE ELEZAR",
+      "desc": "FLETE ELEAZAR",
+      "monto": 3600
+    },
+    {
+      "id": 388,
+      "fecha": "2026-05-19",
+      "cat": "CASETAS, BASCULAS ELEAZAR",
+      "desc": "CASETAS,BASCULA ELEAZAR",
+      "monto": 728
+    },
+    {
+      "id": 389,
+      "fecha": "2026-05-19",
+      "cat": "REFACCIONES TRAILER ELEAZAR",
+      "desc": "GARRAFA DE ACEITE Y FOCO TRAILEER",
+      "monto": 750
+    },
+    {
+      "id": 390,
+      "fecha": "2026-05-19",
+      "cat": "CANACINTRA",
+      "desc": "TRAMITE DESDARE",
+      "monto": 2500
     }
   ],
-  "nextId": 381,
+  "nextId": 391,
   "categories": [
     "DIESEL",
     "COMBUSTIBLE",
@@ -2611,7 +2681,8 @@
     "REFACCIONES TRAILER MARTIN V.",
     "GAS LP",
     "CAMARAS",
-    "REGACCIONES DINA"
+    "REGACCIONES DINA",
+    "REFACCIONES TRAILER ELEAZAR"
   ],
-  "fechaRespaldo": "2026-05-20T19:56:02.678Z"
+  "fechaRespaldo": "2026-05-20T21:46:49.158Z"
 }
