@@ -2015,9 +2015,541 @@
       "cat": "BOTIQUIN",
       "desc": "ALCOHOL ETILICO",
       "monto": 54
+    },
+    {
+      "id": 304,
+      "fecha": "2026-05-08",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 031",
+      "monto": 3000
+    },
+    {
+      "id": 305,
+      "fecha": "2026-05-08",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 032",
+      "monto": 2000
+    },
+    {
+      "id": 306,
+      "fecha": "2026-05-08",
+      "cat": "DIESEL",
+      "desc": "DIESEL PRENSA PACAS",
+      "monto": 1500
+    },
+    {
+      "id": 307,
+      "fecha": "2026-05-08",
+      "cat": "REFACCIONES CHIVO",
+      "desc": "REFACCIONES CHIVO",
+      "monto": 500
+    },
+    {
+      "id": 308,
+      "fecha": "2026-05-08",
+      "cat": "MANGUERAS",
+      "desc": "MANGUERAS REFACCION",
+      "monto": 3000
+    },
+    {
+      "id": 309,
+      "fecha": "2026-05-08",
+      "cat": "PRESTAMOS",
+      "desc": "PRESTAMO DON LUIS",
+      "monto": 5000
+    },
+    {
+      "id": 310,
+      "fecha": "2026-05-08",
+      "cat": "TOTEM",
+      "desc": "ABONO TOTEM",
+      "monto": 25000
+    },
+    {
+      "id": 311,
+      "fecha": "2026-05-08",
+      "cat": "OTROS GASTOS",
+      "desc": "PAGO A DIEGO MERINO (AF)",
+      "monto": 3664
+    },
+    {
+      "id": 312,
+      "fecha": "2026-05-09",
+      "cat": "GASTOS MEDICOS",
+      "desc": "CONSULTA MEDICA EDUARDO SILVA",
+      "monto": 1000
+    },
+    {
+      "id": 313,
+      "fecha": "2026-05-09",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 031",
+      "monto": 2000
+    },
+    {
+      "id": 314,
+      "fecha": "2026-05-09",
+      "cat": "NOMINA",
+      "desc": "NOMINA DEL 4-9 MAYO 26",
+      "monto": 31500
+    },
+    {
+      "id": 315,
+      "fecha": "2026-05-09",
+      "cat": "TTC",
+      "desc": "PAGO TTC",
+      "monto": 870
+    },
+    {
+      "id": 316,
+      "fecha": "2026-05-11",
+      "cat": "PAGO CHIVO",
+      "desc": "PAGO CHIVO",
+      "monto": 5000
+    },
+    {
+      "id": 317,
+      "fecha": "2026-05-11",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 031",
+      "monto": 3000
+    },
+    {
+      "id": 318,
+      "fecha": "2026-05-11",
+      "cat": "DIESEL",
+      "desc": "PRENSA PACAS",
+      "monto": 1500
+    },
+    {
+      "id": 319,
+      "fecha": "2026-05-11",
+      "cat": "OTROS GASTOS",
+      "desc": "GARRAFON DE AGUA",
+      "monto": 61
+    },
+    {
+      "id": 320,
+      "fecha": "2026-05-11",
+      "cat": "BASURA",
+      "desc": "BASURA PATIO",
+      "monto": 800
+    },
+    {
+      "id": 321,
+      "fecha": "2026-05-11",
+      "cat": "MECANICO",
+      "desc": "REPARACION POR LA PRENSA DE BOTE (MIGUEL)",
+      "monto": 1200
+    },
+    {
+      "id": 322,
+      "fecha": "2026-05-11",
+      "cat": "OXIGENO",
+      "desc": "OXIGENO MAYBEY",
+      "monto": 1680
+    },
+    {
+      "id": 323,
+      "fecha": "2026-05-12",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 031",
+      "monto": 2000
+    },
+    {
+      "id": 324,
+      "fecha": "2026-05-12",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 032",
+      "monto": 2000
+    },
+    {
+      "id": 325,
+      "fecha": "2026-05-12",
+      "cat": "DIESEL",
+      "desc": "DIESEL PRENSA PACAS",
+      "monto": 1500
+    },
+    {
+      "id": 326,
+      "fecha": "2026-05-12",
+      "cat": "GASOLINA CAMIONETA",
+      "desc": "GASOLINA CAMIONETA",
+      "monto": 200
+    },
+    {
+      "id": 327,
+      "fecha": "2026-05-12",
+      "cat": "INSUMOS",
+      "desc": "ARTICULOS DE LIMPIEZA",
+      "monto": 298
+    },
+    {
+      "id": 328,
+      "fecha": "2026-05-12",
+      "cat": "ERIKA",
+      "desc": "FLETE ELEAZAR",
+      "monto": 3600
+    },
+    {
+      "id": 329,
+      "fecha": "2026-05-12",
+      "cat": "CASETAS, BASCULAS ELEAZAR",
+      "desc": "CASETAS,BASCULAS ELEAZAR",
+      "monto": 1286
+    },
+    {
+      "id": 330,
+      "fecha": "2026-05-12",
+      "cat": "FLETE MARTIN V.",
+      "desc": "FLETE MARTIN V.",
+      "monto": 3600
+    },
+    {
+      "id": 331,
+      "fecha": "2026-05-12",
+      "cat": "CASETAS,BASCULAS, MARTIN V.",
+      "desc": "CASETAS,BASCULAS MARTIN",
+      "monto": 1055
+    },
+    {
+      "id": 332,
+      "fecha": "2026-05-12",
+      "cat": "REFACCIONES TRAILER MARTIN V.",
+      "desc": "REPARACION TRAILER MARTIN V.",
+      "monto": 2944
+    },
+    {
+      "id": 333,
+      "fecha": "2026-05-12",
+      "cat": "CLASIFICADOR MARTIN V.",
+      "desc": "CLASIFICADOR",
+      "monto": 500
+    },
+    {
+      "id": 334,
+      "fecha": "2026-05-12",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 031",
+      "monto": 1000
+    },
+    {
+      "id": 335,
+      "fecha": "2026-05-13",
+      "cat": "OTROS GASTOS",
+      "desc": "TAXI LALO",
+      "monto": 100
+    },
+    {
+      "id": 336,
+      "fecha": "2026-05-13",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 032",
+      "monto": 2000
+    },
+    {
+      "id": 337,
+      "fecha": "2026-05-13",
+      "cat": "DIESEL",
+      "desc": "DIESEL PRENSA PACAS",
+      "monto": 1000
+    },
+    {
+      "id": 338,
+      "fecha": "2026-05-13",
+      "cat": "OTROS GASTOS",
+      "desc": "GATO DE BOTELLA AUTOZONE",
+      "monto": 1200
+    },
+    {
+      "id": 339,
+      "fecha": "2026-05-13",
+      "cat": "GASOLINA MISAEL",
+      "desc": "GASOLINA MISAEL",
+      "monto": 500
+    },
+    {
+      "id": 340,
+      "fecha": "2026-05-13",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA DINA",
+      "monto": 1000
+    },
+    {
+      "id": 341,
+      "fecha": "2026-05-13",
+      "cat": "DIESEL",
+      "desc": "PRENSA BOTE",
+      "monto": 500
+    },
+    {
+      "id": 342,
+      "fecha": "2026-05-13",
+      "cat": "MECANICO",
+      "desc": "ANTICIPO DISPLAY PRENSA BOTE (MIGUEL)",
+      "monto": 1500
+    },
+    {
+      "id": 343,
+      "fecha": "2026-05-13",
+      "cat": "PRESTAMOS",
+      "desc": "PRESTAMO PABLO",
+      "monto": 200
+    },
+    {
+      "id": 344,
+      "fecha": "2026-05-13",
+      "cat": "GAS LP",
+      "desc": "GAS CORTADORES",
+      "monto": 1000
+    },
+    {
+      "id": 345,
+      "fecha": "2026-05-13",
+      "cat": "TALACHAS",
+      "desc": "DESPONCHADORA MOVIL GRUA 032",
+      "monto": 1400
+    },
+    {
+      "id": 346,
+      "fecha": "2026-05-13",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 031",
+      "monto": 3500
+    },
+    {
+      "id": 348,
+      "fecha": "2026-05-14",
+      "cat": "BASURA",
+      "desc": "BASURA",
+      "monto": 800
+    },
+    {
+      "id": 349,
+      "fecha": "2026-05-14",
+      "cat": "BASURA",
+      "desc": "RESTANTE BASURA",
+      "monto": 515
+    },
+    {
+      "id": 350,
+      "fecha": "2026-05-14",
+      "cat": "CAMARAS",
+      "desc": "ISNTALACION DE CAMARA EN CAJA",
+      "monto": 1000
+    },
+    {
+      "id": 351,
+      "fecha": "2026-05-15",
+      "cat": "TALACHAS",
+      "desc": "TALACHA DON LUIS",
+      "monto": 100
+    },
+    {
+      "id": 352,
+      "fecha": "2026-05-15",
+      "cat": "TALACHAS",
+      "desc": "DESPONCHADA DE UN DIA ANTERIOR DON LUIS",
+      "monto": 1500
+    },
+    {
+      "id": 353,
+      "fecha": "2026-05-15",
+      "cat": "BASURA",
+      "desc": "RESTANTE PAGO DE BASURA",
+      "monto": 415
+    },
+    {
+      "id": 354,
+      "fecha": "2026-05-15",
+      "cat": "OXIGENO",
+      "desc": "OXIGENO MAYBEY",
+      "monto": 2100
+    },
+    {
+      "id": 355,
+      "fecha": "2026-05-15",
+      "cat": "ERIKA",
+      "desc": "PAGO ERIKA",
+      "monto": 500
+    },
+    {
+      "id": 356,
+      "fecha": "2026-05-15",
+      "cat": "FLETE JAVIER",
+      "desc": "FLETE JAVIER",
+      "monto": 3600
+    },
+    {
+      "id": 357,
+      "fecha": "2026-05-15",
+      "cat": "CASETAS,BASCULAS JAVIER",
+      "desc": "CASETAS,BASCULAS JAVIER",
+      "monto": 706
+    },
+    {
+      "id": 358,
+      "fecha": "2026-05-15",
+      "cat": "OTROS GASTOS",
+      "desc": "MATERIAL PARA CONSTRUCCION ( FIRME )",
+      "monto": 4436
+    },
+    {
+      "id": 359,
+      "fecha": "2026-05-15",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 031",
+      "monto": 2000
+    },
+    {
+      "id": 360,
+      "fecha": "2026-05-15",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 032",
+      "monto": 1000
+    },
+    {
+      "id": 361,
+      "fecha": "2026-05-16",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 031",
+      "monto": 2000
+    },
+    {
+      "id": 362,
+      "fecha": "2026-05-16",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 032",
+      "monto": 2000
+    },
+    {
+      "id": 363,
+      "fecha": "2026-05-16",
+      "cat": "DIESEL",
+      "desc": "DIESEL PRENSA PACAS",
+      "monto": 1000
+    },
+    {
+      "id": 364,
+      "fecha": "2026-05-16",
+      "cat": "DIESEL",
+      "desc": "DIESEL PRENSA BOTE",
+      "monto": 500
+    },
+    {
+      "id": 365,
+      "fecha": "2026-05-16",
+      "cat": "RENTA",
+      "desc": "RENTA CASA AF Y SERVICIOS",
+      "monto": 22831
+    },
+    {
+      "id": 366,
+      "fecha": "2026-05-16",
+      "cat": "NOMINA",
+      "desc": "NOMINA 11-16 MAYO",
+      "monto": 25544
+    },
+    {
+      "id": 367,
+      "fecha": "2026-05-18",
+      "cat": "GASTOS AF",
+      "desc": "GASTOS AF",
+      "monto": 8000
+    },
+    {
+      "id": 368,
+      "fecha": "2026-05-18",
+      "cat": "OTROS GASTOS",
+      "desc": "SOLDADURA",
+      "monto": 200
+    },
+    {
+      "id": 369,
+      "fecha": "2026-05-18",
+      "cat": "DIESEL",
+      "desc": "DIESEL GRUA 032",
+      "monto": 1500
+    },
+    {
+      "id": 370,
+      "fecha": "2026-05-18",
+      "cat": "DIESEL",
+      "desc": "PRENSA GRANDE",
+      "monto": 1500
+    },
+    {
+      "id": 371,
+      "fecha": "2026-05-18",
+      "cat": "REFACCIONES GRUA 032",
+      "desc": "TORNILLOS PARA GIRO",
+      "monto": 191
+    },
+    {
+      "id": 372,
+      "fecha": "2026-05-18",
+      "cat": "REFACCIONES GRUA 031",
+      "desc": "REFACCIONES GRUA 031",
+      "monto": 3778
+    },
+    {
+      "id": 373,
+      "fecha": "2026-05-18",
+      "cat": "REGACCIONES DINA",
+      "desc": "REFACCIONES DINA",
+      "monto": 2000
+    },
+    {
+      "id": 374,
+      "fecha": "2026-05-18",
+      "cat": "FLETE MARTIN V.",
+      "desc": "FLETE MARTIN",
+      "monto": 3600
+    },
+    {
+      "id": 375,
+      "fecha": "2026-05-18",
+      "cat": "CASETAS,BASCULAS, MARTIN V.",
+      "desc": "CASETAS,BASCULA MARTIN V.",
+      "monto": 778
+    },
+    {
+      "id": 376,
+      "fecha": "2026-05-18",
+      "cat": "REFACCIONES TRAILER MARTIN V.",
+      "desc": "REFACCIONES MARTIN V.",
+      "monto": 540
+    },
+    {
+      "id": 377,
+      "fecha": "2026-05-18",
+      "cat": "CLASIFICADOR MARTIN V.",
+      "desc": "CLASIFICADORES MARTIN V.",
+      "monto": 800
+    },
+    {
+      "id": 378,
+      "fecha": "2026-05-18",
+      "cat": "MECANICO",
+      "desc": "ARREGLO PRENSA BOTE",
+      "monto": 1000
+    },
+    {
+      "id": 379,
+      "fecha": "2026-05-18",
+      "cat": "OTROS GASTOS",
+      "desc": "PAGO SCANNER",
+      "monto": 1200
+    },
+    {
+      "id": 380,
+      "fecha": "2026-05-18",
+      "cat": "HRS EXTRAS",
+      "desc": "EXTRAS PABLO",
+      "monto": 250
     }
   ],
-  "nextId": 304,
+  "nextId": 381,
   "categories": [
     "DIESEL",
     "COMBUSTIBLE",
@@ -2072,7 +2604,14 @@
     "REFACCIONES PRENSA PACAS",
     "TALACHAS MARTIN V.",
     "REFACCIONES MOTO",
-    "BOTIQUIN"
+    "BOTIQUIN",
+    "TOTEM",
+    "MANGUERAS",
+    "TTC",
+    "REFACCIONES TRAILER MARTIN V.",
+    "GAS LP",
+    "CAMARAS",
+    "REGACCIONES DINA"
   ],
-  "fechaRespaldo": "2026-05-19T22:35:01.481Z"
+  "fechaRespaldo": "2026-05-20T19:56:02.678Z"
 }
